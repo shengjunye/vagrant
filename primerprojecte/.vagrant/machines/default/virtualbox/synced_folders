@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"disabled":false,"guestpath":"/vagrant","hostpath":"C:/Users/km-ay/vagrant/primerprojecte","__vagrantfile":true},"/opt/vagrantsite":{"guestpath":"/opt/vagrantsite","hostpath":"C:/Users/km-ay/vagrant/primerprojecte/web","disabled":false,"__vagrantfile":true}}}
